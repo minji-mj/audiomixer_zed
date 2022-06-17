@@ -1,0 +1,19 @@
+
+*** Running vivado
+    with args -log audio_zed_audio_ctrl_0_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source audio_zed_audio_ctrl_0_0.tcl
+
+
+
+****** Vivado v2020.2 (64-bit)
+  **** SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+  **** IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source audio_zed_audio_ctrl_0_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/minji/Desktop/AudioMixer_Project/AudioMixer_Vivado/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/Users/minji/Desktop/AudioMixer_Project/AudioMixer_Vivado/AudioMixer_Vivado/AudioMixer_Vivado.cache/ip 
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP audio_zed_audio_ctrl_0_0, cache-ID = 18d13fff1c8b684f.
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 15 03:29:33 2021...
