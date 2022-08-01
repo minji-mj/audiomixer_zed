@@ -1,0 +1,10 @@
+16:30:20 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\minji\Desktop\audiomixer_zed\application\temp_xsdb_launch_script.tcl
+16:30:21 INFO  : Registering command handlers for Vitis TCF services
+16:30:28 INFO  : XSCT server has started successfully.
+16:30:29 INFO  : plnx-install-location is set to ''
+16:30:29 INFO  : Successfully done setting XSCT server connection channel  
+16:30:30 INFO  : Successfully done query RDI_DATADIR 
+16:30:30 INFO  : Platform repository initialization has completed.
+16:30:30 INFO  : Successfully done setting workspace for the tool. 
+16:32:16 INFO  : Result from executing command 'getProjects': audiomixer
+16:32:16 INFO  : Result from executing command 'getPlatforms': 
