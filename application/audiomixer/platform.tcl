@@ -15,3 +15,4 @@ platform create -name {audiomixer}\
 platform write
 platform generate -domains 
 platform active {audiomixer}
+platform generate

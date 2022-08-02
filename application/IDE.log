@@ -8,3 +8,5 @@
 16:30:30 INFO  : Successfully done setting workspace for the tool. 
 16:32:16 INFO  : Result from executing command 'getProjects': audiomixer
 16:32:16 INFO  : Result from executing command 'getPlatforms': 
+16:44:31 INFO  : Result from executing command 'getProjects': audiomixer
+16:44:31 INFO  : Result from executing command 'getPlatforms': audiomixer|C:/Users/minji/Desktop/audiomixer_zed/application/audiomixer/export/audiomixer/audiomixer.xpfm

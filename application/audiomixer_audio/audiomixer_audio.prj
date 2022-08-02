@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="audiomixer_audio" location="C:/Users/minji/Desktop/audiomixer_zed/application/audiomixer_audio" platform="C:/Users/minji/Desktop/audiomixer_zed/application/audiomixer/export/audiomixer/audiomixer.xpfm" platformUID="xilinx:zed::0.0(custom)" systemProject="audiomixer_audio_system" sysConfig="audiomixer" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="e225a022379958b9e49dda53f3bbba98">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1021560569" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.927315928" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
